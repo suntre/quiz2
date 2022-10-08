@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_kotlin">Czy kotlin umożliwia programowanie aplikacji mobilnych?</string>
+    <string name="q_multi_platform">Czy możliwe jest programowanie aplikacji wieloplatformowych?</string>
+    <string name ="q_file_r">Czy nowe wersje Android Studio umożliwiają odnalezienie pliku R.java?</string>
+    <string name="q_java_csharp">Java jest językiem podobnym do C#.</string>
+    <string name="q_design">Tworzenie wyglądu aplikacji nie musi opierać się na kodowaniu.</string>
+    <string name="correct_answer">Odpowiedź prawidłowa</string>
+    <string name="incorrect_answer">Odpowiedź nieprawidłowa</string>
+    <string name="view_title">QUIZ</string>
+</resources>
