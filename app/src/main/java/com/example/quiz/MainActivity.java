@@ -24,12 +24,12 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
         Button trueButton;
         Button falseButton;
         Button nextButton;
-
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
 
         trueButton = findViewById(R.id.true_button);
         falseButton = findViewById(R.id.false_button);
