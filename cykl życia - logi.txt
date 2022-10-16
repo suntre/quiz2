@@ -1,0 +1,17 @@
+#Pierwsze uruchomienie
+2022-10-08 23:40:38.587 7881-7881/com.example.quiz D/MainActivity: On start activated
+#Przycisk wstecz
+2022-10-08 23:41:17.206 7881-7881/com.example.quiz D/MainActivity: On pause activated
+2022-10-08 23:41:17.766 7881-7881/com.example.quiz D/MainActivity: On stop activated
+2022-10-08 23:41:17.769 7881-7881/com.example.quiz D/MainActivity: On destroy activated
+#Ponowne uruchomienie
+2022-10-08 23:41:28.620 7881-7881/com.example.quiz D/MainActivity: On start activated
+2022-10-08 23:41:31.329 7881-7881/com.example.quiz D/MainActivity: On pause activated
+2022-10-08 23:41:32.086 7881-7881/com.example.quiz D/MainActivity: On stop activated
+#Wznowienie z ostatnich aplikacji
+2022-10-08 23:41:35.636 7881-7881/com.example.quiz D/MainActivity: On start activated
+#Obrócenie telefonu
+2022-10-08 23:45:10.699 9599-9599/com.example.quiz D/MainActivity: On pause activated
+2022-10-08 23:45:10.704 9599-9599/com.example.quiz D/MainActivity: On stop activated
+2022-10-08 23:45:10.705 9599-9599/com.example.quiz D/MainActivity: On destroy activated
+2022-10-08 23:45:10.768 9599-9599/com.example.quiz D/MainActivity: On start activated
