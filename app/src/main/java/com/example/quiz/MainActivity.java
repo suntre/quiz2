@@ -3,6 +3,7 @@ package com.example.quiz;
 import androidx.appcompat.app.AppCompatActivity;
 
 
+import android.util.Log;
 import android.widget.Button;
 import android.widget.TextView;
 import android.os.Bundle;
@@ -51,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
     protected void checkAnswerCorrectness(boolean userAnswer){
         boolean correctAnswer = questions[currentIndex].GetAnswer();
         int resultMessageId;
+
         if(userAnswer == correctAnswer){
             resultMessageId = R.string.correct_answer;
         }
