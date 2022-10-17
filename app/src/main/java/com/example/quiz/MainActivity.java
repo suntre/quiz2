@@ -64,12 +64,13 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+
         Button trueButton;
         Button falseButton;
         Button nextButton;
         Button tipButton;
 
-        super.onCreate(savedInstanceState);
         Log.d(QUIZ_TAG, "On create activated");
         setContentView(R.layout.activity_main);
 

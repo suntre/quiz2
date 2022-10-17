@@ -8,6 +8,10 @@
 2022-10-08 23:41:28.620 7881-7881/com.example.quiz D/MainActivity: On start activated
 2022-10-08 23:41:31.329 7881-7881/com.example.quiz D/MainActivity: On pause activated
 2022-10-08 23:41:32.086 7881-7881/com.example.quiz D/MainActivity: On stop activated
+#przycisk home
+2022-10-08 23:41:27.559 1692-1692/com.example.quiz D/MainActivity: On pause activated
+2022-10-17 23:41:28.558 1692-1692/com.example.quiz D/MainActivity: On stop activated
+2022-10-17 23:41:28.562 1692-1692/com.example.quiz D/MainActivity: On save instace activated
 #Wznowienie z ostatnich aplikacji
 2022-10-08 23:41:35.636 7881-7881/com.example.quiz D/MainActivity: On start activated
 #Obrócenie telefonu
